@@ -1,0 +1,1 @@
+The mapping from old GBIF dataset-resource-id to modern datasetKey. This file is static and never change because no new dataset-resource-ids should ever be created. Useful for working with old GBIF data.  
